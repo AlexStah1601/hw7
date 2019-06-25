@@ -1,0 +1,29 @@
+footer{
+  width:100%;
+  height:50px;
+  background-color: #e0dddd;
+  margin: 0 auto;
+  text-align: left;
+  padding-top: 0;
+  margin-right: 40px;
+  position: absolute;
+margin-top: 950px;
+}
+
+footer .footart{
+  color: #000;
+  font-size:14px;
+  margin-right: 60px;
+  padding-left: 50px;
+  text-transform: capitalize;
+  
+}
+.social img{
+  width:30px;
+    float : right;
+   }
+   
+.social a{
+  color: #626262;
+  text-decoration:none;
+   }
