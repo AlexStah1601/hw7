@@ -99,7 +99,7 @@ img{
    #article_5, #article_6{
     margin-top: 200px
    }
-
+/* 
    .submit {
     width: 100%;
     height: 287px;
@@ -151,9 +151,33 @@ img{
   background-image: url("../img/buttom.png");
   border: none;
   cursor:pointer;
-    width: 32px;
+    width: 32px; */
+/* } */
+
+form{
+  border: solid 1px none;
+  width: 100%;
+  height:287px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items:center;
+  padding-top: 150px;
+  padding-bottom: 0px;
 }
 
+form h2{
+  font-size:30px;
+  font-weight: bold;
+  color: #333; 
+}
+.mail{
+  border:none;
+  border-bottom: 1px solid #333;
+  outline:none;
+  width: 400px;
+  height: 40px;
+}
 
 
   
